@@ -1,0 +1,17 @@
+{
+  "name": "scratch-extension",
+  "version": "1.0.0",
+  "description": "External extensions for  Scratch 3.0 projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ArthurZheng",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "format-message": "^6.2.3",
+    "require-all": "^3.0.0"
+  }
+}
