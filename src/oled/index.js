@@ -27,6 +27,7 @@ const demo = {
     xml:  staticPath + './toolbox.xml',
     msg: staticPath + './language',
     // arduino_lib: "lib",
+    location: 'local',
     link: 'https://www.baidu.com',
 }
 

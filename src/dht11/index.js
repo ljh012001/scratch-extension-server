@@ -21,6 +21,7 @@ const dht11 = {
     toolbox:  staticPath + '/toolbox.xml',
     msg: staticPath + '/language',
     // arduino_lib: "lib",
+    location: 'local',     // or 'remote'
     link: 'https://www.baidu.com',
 }
 
